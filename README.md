@@ -6,3 +6,6 @@ https://leetcode.com/explore/challenge/card/may-leetcoding-challenge
 
 # June Challenge
 https://leetcode.com/explore/challenge/card/june-leetcoding-challenge
+
+# July Challenge
+https://leetcode.com/explore/challenge/card/july-leetcoding-challenge
