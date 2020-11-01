@@ -18,3 +18,6 @@ https://leetcode.com/explore/challenge/card/september-leetcoding-challenge
 
 # October Challenge
 https://leetcode.com/explore/challenge/card/october-leetcoding-challenge
+
+# November Challenge
+https://leetcode.com/explore/challenge/card/november-leetcoding-challenge
