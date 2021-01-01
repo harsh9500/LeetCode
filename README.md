@@ -24,3 +24,6 @@ https://leetcode.com/explore/challenge/card/november-leetcoding-challenge
 
 # December Challenge
 https://leetcode.com/explore/challenge/card/december-leetcoding-challenge
+
+# January Challenge
+https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021
