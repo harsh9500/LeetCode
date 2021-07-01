@@ -43,3 +43,5 @@ https://leetcode.com/explore/challenge/card/may-leetcoding-challenge-2021
 # June Challenge
 https://leetcode.com/explore/challenge/card/june-leetcoding-challenge-2021
 
+# July Challenge
+https://leetcode.com/explore/challenge/card/july-leetcoding-challenge-2021
